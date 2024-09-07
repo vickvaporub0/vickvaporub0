@@ -26,16 +26,29 @@
     <section id="modelos">
         <h2>Modelos Icônicos</h2>
         <div class="carro">
-            <img src="mustang.jpg" alt="Ford Mustang">
+            <img src="https://images.unsplash.com/photo-1607517279047-0a8d5c8b63ef?fit=crop&w=800&h=533" alt="Ford Mustang 1965">
             <h3>Ford Mustang 1965</h3>
             <p>Um ícone dos anos 60, conhecido por seu design icônico e desempenho impressionante.</p>
         </div>
         <div class="carro">
-            <img src="corvette.jpg" alt="Chevrolet Corvette">
+            <img src="https://images.unsplash.com/photo-1603753827235-5820a12a2f3a?fit=crop&w=800&h=533" alt="Chevrolet Corvette 1957">
             <h3>Chevrolet Corvette 1957</h3>
             <p>Um clássico absoluto com um design elegante e uma potência marcante.</p>
         </div>
         <div class="carro">
-            <img src="fusca.jpg" alt="Volkswagen Fusca">
+            <img src="https://images.unsplash.com/photo-1504607737522-752b4d8c4d28?fit=crop&w=800&h=533" alt="Volkswagen Fusca 1968">
             <h3>Volkswagen Fusca 1968</h3>
-            <
+            <p>Um dos carros mais reconhecíveis e amados de todos os tempos.</p>
+        </div>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Para mais informações, entre em contato conosco pelo e-mail: <a href="mailto:info@carrosclassicos.com">info@carrosclassicos.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Carros Clássicos. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
